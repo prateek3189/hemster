@@ -1,0 +1,37 @@
+body {
+    font-size: 14px;
+    font-family: sans-serif;
+    background-color: #000000;
+    margin: 0;
+    padding: 0;
+    color: #008000;
+}
+
+.my-message {
+    padding: 0;
+    margin: 0;
+}
+
+a {
+    color: #008000;
+}
+
+hr {
+    border-color: #008000;
+}
+
+h1 {
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    border-bottom: 1px solid #008000;
+}
+
+h1 img {
+    margin-right: 10px;
+}
+
+ul.square { list-style-type: square; }
+ul.disc { list-style-type: disc;; }
+ol.capsLetters { list-style-type: upper-alpha; }
+ol.smallLetters { list-style-type: lower-alpha; }
