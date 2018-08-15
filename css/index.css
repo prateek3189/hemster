@@ -35,3 +35,11 @@ ul.square { list-style-type: square; }
 ul.disc { list-style-type: disc;; }
 ol.capsLetters { list-style-type: upper-alpha; }
 ol.smallLetters { list-style-type: lower-alpha; }
+
+table {
+    border-color: #008000;
+}
+
+.error {
+    color: #DA0000;
+}
